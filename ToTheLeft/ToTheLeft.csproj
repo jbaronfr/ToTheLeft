@@ -53,7 +53,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
-    <Compile Include="AlignLeftFactory.cs" />
+    <Compile Include="ToTheLeftFactory.cs" />
     <Compile Include="AlignOnScroll.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
